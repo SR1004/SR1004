@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi , I'm Sriram</h1>
+<h3 align="center">A passionate developer from India. I have been learning and working on personal projects for a couple of years with a large skillset. Feel free to connect with me over collaboration or questions.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
